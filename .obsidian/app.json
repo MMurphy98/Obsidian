@@ -6,5 +6,6 @@
     "en-US"
   ],
   "showLineNumber": true,
-  "attachmentFolderPath": "./src/img"
+  "attachmentFolderPath": "./src/img",
+  "defaultViewMode": "preview"
 }
