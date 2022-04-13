@@ -1,1 +1,10 @@
-{}
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "showLineNumber": true,
+  "attachmentFolderPath": "./src/img"
+}

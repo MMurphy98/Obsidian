@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d36e70229e52350",
+        "id": "7ebb14474a2db7dc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +87,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d36e70229e52350",
-  "lastOpenFiles": []
+  "active": "7ebb14474a2db7dc",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Pasted image 20220413220831.png",
+    "奕斯伟2022届校园招聘宣讲会.md",
+    "src/img/2022-04-13-15-46-08.png",
+    "README.md"
+  ]
 }
