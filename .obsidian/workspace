@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "2022-04-13.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": true
           }
         },
         "group": "56abbb5d80dbf18e"
@@ -22,7 +23,8 @@
           "type": "markdown",
           "state": {
             "file": "2022-04-13.md",
-            "mode": "source"
+            "mode": "source",
+            "source": true
           }
         },
         "group": "56abbb5d80dbf18e"
@@ -102,7 +104,8 @@
   "active": "fb2d16f5a339386f",
   "lastOpenFiles": [
     "2022-04-13.md",
-    "src/img/Pasted image 20220414224452.png",
+    "src/img/Pasted image 20220415150531.png",
+    "src/img/Pasted image 20220415150500.png",
     "src/img/Pasted image 20220414223603.png",
     "src/img/Pasted image 20220413222722.png",
     "README.md",

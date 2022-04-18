@@ -7,5 +7,11 @@
   ],
   "showLineNumber": true,
   "attachmentFolderPath": "./src/img",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
