@@ -1,4 +1,10 @@
 {
-  "baseFontSize": 16,
-  "theme": "moonstone"
+  "baseFontSize": 19,
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "custom-admonitions.e51c43",
+    "Clutter-Free Heading",
+    "Tag Pills"
+  ]
 }

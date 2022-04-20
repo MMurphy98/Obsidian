@@ -1,5 +1,5 @@
 {
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": false,
   "spellcheckLanguages": [
     "zh-CN",
@@ -13,5 +13,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "rightToLeft": false,
+  "newFileLocation": "root"
 }

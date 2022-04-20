@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "c58ba19c8bf68ec8",
+        "id": "a98a6696fa0a2c9a",
         "type": "leaf",
+        "dimension": 51.41242937853108,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04-13.md",
-            "mode": "preview",
-            "source": true
+            "file": "00-Daily/2022-04-19.md",
+            "mode": "source"
           }
         },
-        "group": "56abbb5d80dbf18e"
+        "group": "307b0c06f4f699c4"
       },
       {
-        "id": "fb2d16f5a339386f",
+        "id": "39cbac4ecf21f397",
         "type": "leaf",
+        "dimension": 48.58757062146893,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-04-13.md",
-            "mode": "source",
-            "source": true
+            "file": "00-Daily/2022-04-19.md",
+            "mode": "preview"
           }
         },
-        "group": "56abbb5d80dbf18e"
+        "group": "307b0c06f4f699c4"
       }
     ],
     "direction": "vertical"
@@ -39,6 +39,7 @@
       {
         "id": "51c4e073e246552b",
         "type": "tabs",
+        "dimension": 65.77380952380952,
         "children": [
           {
             "id": "af874935e0a219d5",
@@ -62,12 +63,45 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "bbc8cda036bb50b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0f508c080a403c02",
+        "type": "tabs",
+        "dimension": 34.226190476190474,
+        "children": [
+          {
+            "id": "dd549b24beb01276",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c6c1cc37c3f75d6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 196.99999809265137
+    "width": 236,
+    "collapsed": true
   },
   "right": {
     "id": "0a7c0c33b0828309",
@@ -76,6 +110,7 @@
       {
         "id": "56d32a843bd6dcd6",
         "type": "tabs",
+        "dimension": 51.78571428571429,
         "children": [
           {
             "id": "209a98240a294be1",
@@ -83,14 +118,54 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-04-13.md",
+                "file": "00-Daily/2022-04-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "894bc11c8dce05fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9439a334be807d18",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Daily/2022-04-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3d8d0f336b5e395c",
+        "type": "tabs",
+        "dimension": 48.214285714285715,
+        "children": [
+          {
+            "id": "da0b4b3d9eca0cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Daily/2022-04-19.md"
               }
             }
           }
@@ -98,20 +173,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 371.64300537109375
   },
-  "active": "fb2d16f5a339386f",
+  "active": "a98a6696fa0a2c9a",
   "lastOpenFiles": [
-    "2022-04-13.md",
-    "src/img/Pasted image 20220415150531.png",
-    "src/img/Pasted image 20220415150500.png",
-    "src/img/Pasted image 20220414223603.png",
-    "src/img/Pasted image 20220413222722.png",
-    "README.md",
-    "奕斯伟2022届校园招聘宣讲会.md",
-    "src/img/Pasted image 20220413221522.png",
-    "Pasted image 20220413220831.png",
-    "src/img/2022-04-13-15-46-08.png"
+    "00-Daily/2022-04-19.md",
+    "00-Daily/2022-04-18.md",
+    "90-Template/Daily Note.md",
+    "完成obsidian基础插件的学习.md",
+    "01-Week/Cap Track Mode.md",
+    "90-Template/未命名.md",
+    "00-Daily/2022-04-20.md",
+    "00-Daily/2022-04-21.md",
+    "未命名.md",
+    "src/img/Pasted image 20220419145910.png"
   ]
 }
