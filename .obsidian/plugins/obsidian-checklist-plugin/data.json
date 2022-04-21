@@ -9,6 +9,9 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "完成obsidian基础插件的学习.md",
+    "90-Template/Daily Note.md"
+  ],
   "_hiddenTags": []
 }

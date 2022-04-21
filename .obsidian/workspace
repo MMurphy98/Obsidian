@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Daily/2022-04-19.md",
+            "file": "00-Daily/2022-04-21.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Daily/2022-04-19.md",
+            "file": "00-Daily/2022-04-21.md",
             "mode": "preview"
           }
         },
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236,
-    "collapsed": true
+    "width": 236
   },
   "right": {
     "id": "0a7c0c33b0828309",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Daily/2022-04-19.md",
+                "file": "00-Daily/2022-04-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Daily/2022-04-19.md",
+                "file": "00-Daily/2022-04-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Daily/2022-04-19.md"
+                "file": "00-Daily/2022-04-21.md"
               }
             }
           }
@@ -175,16 +174,16 @@
     "direction": "horizontal",
     "width": 371.64300537109375
   },
-  "active": "a98a6696fa0a2c9a",
+  "active": "39cbac4ecf21f397",
   "lastOpenFiles": [
+    "00-Daily/2022-04-21.md",
+    "00-Daily/2022-04-20.md",
     "00-Daily/2022-04-19.md",
     "00-Daily/2022-04-18.md",
     "90-Template/Daily Note.md",
     "完成obsidian基础插件的学习.md",
     "01-Week/Cap Track Mode.md",
     "90-Template/未命名.md",
-    "00-Daily/2022-04-20.md",
-    "00-Daily/2022-04-21.md",
     "未命名.md",
     "src/img/Pasted image 20220419145910.png"
   ]

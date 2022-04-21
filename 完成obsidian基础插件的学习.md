@@ -51,9 +51,9 @@ Admonition 多元化了markdown的笔记内容，让形式更丰富了；
 
 ### Checklist
 #todo
-- [ ] [[完成obsidian基础插件的学习]]；
-- [ ] 实现obsidian与zotero的联动；
-- [ ] 子任务是没法实现的；
+- [x] [[完成obsidian基础插件的学习]]；
+- [x] 实现obsidian与zotero的联动；
+- [x] 子任务是没法实现的；
 
 **Checklist** 可以根据自定义的 `tag` 识别todo的任务，并且按照文件名分类，但是有个问题是无法实现**任务与子任务**的拆分；
 
