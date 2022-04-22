@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Daily/2022-04-21.md",
+            "file": "00-Daily/2022-04-22.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Daily/2022-04-21.md",
+            "file": "00-Daily/2022-04-22.md",
             "mode": "preview"
           }
         },
@@ -56,7 +56,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0f508c080a403c02",
@@ -96,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Daily/2022-04-21.md",
+                "file": "00-Daily/2022-04-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,13 +145,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Daily/2022-04-21.md",
+                "file": "00-Daily/2022-04-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "95728961727a9be2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "3d8d0f336b5e395c",
@@ -164,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Daily/2022-04-21.md"
+                "file": "00-Daily/2022-04-22.md"
               }
             }
           }
@@ -172,19 +181,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.64300537109375
+    "width": 234
   },
-  "active": "39cbac4ecf21f397",
+  "active": "a98a6696fa0a2c9a",
   "lastOpenFiles": [
+    "00-Daily/2022-04-22.md",
     "00-Daily/2022-04-21.md",
     "00-Daily/2022-04-20.md",
+    "2022-04-23.md",
+    "90-Template/Daily Note.md",
+    "01-Week/Cap Track Mode.md",
     "00-Daily/2022-04-19.md",
     "00-Daily/2022-04-18.md",
-    "90-Template/Daily Note.md",
     "完成obsidian基础插件的学习.md",
-    "01-Week/Cap Track Mode.md",
-    "90-Template/未命名.md",
-    "未命名.md",
-    "src/img/Pasted image 20220419145910.png"
+    "90-Template/未命名.md"
   ]
 }
