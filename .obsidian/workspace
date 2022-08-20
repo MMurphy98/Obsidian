@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a98a6696fa0a2c9a",
+        "id": "91acfc3393d9f1cd",
         "type": "leaf",
-        "dimension": 51.41242937853108,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00-Daily/2022-04-22.md",
-            "mode": "source"
-          }
-        },
-        "group": "307b0c06f4f699c4"
-      },
-      {
-        "id": "39cbac4ecf21f397",
-        "type": "leaf",
-        "dimension": 48.58757062146893,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "00-Daily/2022-04-22.md",
+            "file": "Boostrapped Switch.md",
             "mode": "preview"
           }
         },
-        "group": "307b0c06f4f699c4"
+        "group": "eb2d80c6bba108db"
+      },
+      {
+        "id": "8308600517a035c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Boostrapped Switch.md",
+            "mode": "source"
+          }
+        },
+        "group": "eb2d80c6bba108db"
       }
     ],
     "direction": "vertical"
@@ -95,12 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 236
+    "width": 350.99999809265137
   },
   "right": {
     "id": "0a7c0c33b0828309",
@@ -117,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Daily/2022-04-22.md",
+                "file": "Boostrapped Switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Daily/2022-04-22.md",
+                "file": "Boostrapped Switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Daily/2022-04-22.md"
+                "file": "Boostrapped Switch.md"
               }
             }
           }
@@ -183,17 +180,17 @@
     "direction": "horizontal",
     "width": 234
   },
-  "active": "a98a6696fa0a2c9a",
+  "active": "8308600517a035c0",
   "lastOpenFiles": [
+    "Boostrapped Switch.md",
+    "002. Bootstrapped Switches in  Simulink.md",
+    "001. Phase Order.md",
+    "01-Week/Cap Track Mode.md",
+    "00-Daily/2022-05-24.md",
+    "00-Daily/2022-04-27.md",
     "00-Daily/2022-04-22.md",
     "00-Daily/2022-04-21.md",
     "00-Daily/2022-04-20.md",
-    "2022-04-23.md",
-    "90-Template/Daily Note.md",
-    "01-Week/Cap Track Mode.md",
-    "00-Daily/2022-04-19.md",
-    "00-Daily/2022-04-18.md",
-    "完成obsidian基础插件的学习.md",
-    "90-Template/未命名.md"
+    "2022-04-23.md"
   ]
 }
